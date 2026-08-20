@@ -1,4 +1,3 @@
-# 2024_TJ_take_out_platform_testing
 
 # Takeout Platform — Full-Stack Software Testing Project
 
